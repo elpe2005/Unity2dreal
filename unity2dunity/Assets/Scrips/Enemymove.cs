@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class enem : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
     public GameObject enemy;
     public float speed;
